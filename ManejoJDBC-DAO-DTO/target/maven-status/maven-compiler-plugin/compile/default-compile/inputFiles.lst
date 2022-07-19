@@ -1,0 +1,9 @@
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/domain/Usuario.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/datos/PersonaDaoJDBC.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/domain/PersonaDTO.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/datos/Conexion.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/test/TestMysqlJDBC.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/datos/UsuarioDAO.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/test/TestManejoPersona.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/test/TestManejoUsuario.java
+/home/benja/NetBeansProjects/JDBC/ManejoJDBC-DAO-DTO/src/main/java/datos/IPersonaDao.java
